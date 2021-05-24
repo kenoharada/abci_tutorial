@@ -14,7 +14,6 @@ RUN apt-get update && apt-get upgrade -y && \
     ca-certificates \
     cmake \
     curl \
-    ffmpeg \
     git \
     graphviz \
     less \
@@ -30,14 +29,12 @@ RUN apt-get update && apt-get upgrade -y && \
     make \
     openssh-client \
     python-openssl \
-    sox \
     tk-dev \
     tmux \
     unzip \
     vim \
     wget \
     xz-utils \
-    youtube-dl \
     zip \
     zlib1g-dev \
     && apt-get clean \
