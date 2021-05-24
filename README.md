@@ -13,3 +13,5 @@ Resources
 [Hyperparameter search with wandb sweep using multiple-gpus](multi_gpu)
 ## Use docker image with Singularity
 [Use docker image with Singularity](https://github.com/kenoharada/abci_tutorial/blob/main/docker_image_with_singularity.md)
+## Use conda env in batch job
+[Use conda env in batch job]()
