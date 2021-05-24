@@ -11,3 +11,4 @@ Resources
 [Monitor batch job's experiment results using wandb](experiment)
 ## Multiple-GPU
 [Hyperparameter search with wandb sweep using multiple-gpus](multi_gpu)
+## Use docker image with Singularity
